@@ -1,0 +1,62 @@
+---
+title: "Guidelines for the Africa-USA Trade and Economics Articles"
+author: ""
+date: "`r format(Sys.Date(), '%A, %B %d, %Y')`"
+output: 
+  word_document:
+    fig_height: 3
+    fig_width: 5
+  html_document:
+    fig_height: 3
+    fig_width: 5
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r, setup, include=FALSE}
+require(mosaic)   # Load additional packages here 
+knitr::opts_chunk$set(
+  tidy=FALSE,     # display code as typed
+  size="small")   # slightly smaller font for code
+```
+
+## **BACKGROUND**
+
+The primary purpose of the African Centre for the Study of the United States (ACSUS) is to study the United States of America (US) and its relations with Africa. ACSUS covers Africa-US bilateral and multilateral relations, ranging from cultural and educational exchanges to political and diplomatic missions. Among the most important relationships are economics and trade. Past initiatives like the African Growth and Opportunities Act (AGOA), Prosper Africa, and PEPFAR gave Africa access to the US market. The Biden administration has returned America’s to multilateralism. This shift coincides with the coming into effect of the African Continental Free Trade Area. ACSUS Africa-US economic and trade project will pinpoint the direction US-Africa relations. The project seeks to uncover, among other issues, what has worked well in the Africa-US economics and trade sphere, opportunities and bottlenecks in Africa-US trade,  and how to deepen these relations. 
+
+## **OBJECTIVES**
+
+The objectives of the current activity are;
+
+- Generate thought pieces on Africa-US trade and economics that may form a springboard for further analysis and research. 
+
+-
+
+## **TARGET AUDIENCE**
+
+The articles target a wide array of individuals, including but not limited to;
+
+- Policymakers both in Africa and the United States.
+- Corporate Leaders.
+- Journalists and Legal Practitioners.
+- Trade and finance professionals.
+- Academics focusing on Africa-US trade and economics. 
+
+Note that the audience consists of people who may not be conversant with finance, economics, and trade terminology. When developing your articles, please bear the audience in mind. 
+
+## **GUDELINES FOR WRITING THE ARTICLES**
+
+- **Format**: The articles should be in the word document(.doc, .docx) format or a word compatible format like Libreoffice (.odt) format.
+- **Length**: The articles should be around 2000 words, excluding citations and preliminary pages. 
+- **Citation**: References should be in the APA citation style. 
+- **Hyperlinks**: For every citation, provide a hyperlink to the relevant source. 
+- **Language**: As noted above, the audience consists of people who may not be experts in trade and economics. Hence, use non-technical language as much as possible. Where technical language is inevitable, give a brief definition or description of the term. The meaning or explanation could be within the text or as a footnote/endnote. 
+
+
+## **SUBMISSION**
+
+The deadline for article submission is July 22, 2021. Please submit the articles to the following email: <email>. 
+
+
+
